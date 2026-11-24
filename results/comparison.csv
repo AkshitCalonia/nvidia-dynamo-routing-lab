@@ -1,0 +1,4 @@
+policy,completed,cache_hit_rate,mean_latency_ms,p95_latency_ms,makespan_ms,throughput_requests_per_sim_second,worker_failures_injected
+round_robin,240,0.5,2600.131,4769.856,6600.594,36.36,0
+cache_only,240,0.875,9668.379,17924.05,20396.106,11.767,0
+balanced,240,0.5,2537.946,4647.304,6391.44,37.55,0
